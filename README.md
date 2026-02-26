@@ -16,7 +16,7 @@ Estas son las tecnologías con las que trabajo y que estoy perfeccionando:
 * **Frontend:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
     ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-* **Hardware/IoT:** ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
 
 ### 📬 Cómo contactarme
 ¡Me encanta conectar con otros desarrolladores y entusiastas de la tecnología! 
