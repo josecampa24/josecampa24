@@ -1,7 +1,11 @@
 # ¡Hola! Soy Jose Campa 👋
 
 ### 🎓 Quién soy
+<<<<<<< HEAD
 Soy estudiante de **Ingeniería en Tecnología de Software (ITS)** en la **Universidad Autónoma de Nuevo León (UANL)**.Apasionado por el desarrollo de software y la resolución de problemas mediante código.
+=======
+Soy estudiante de **Ingeniería en Tecnología de Software (ITS)** en la **Universidad Autónoma de Nuevo León (UANL)**. Actualmente curso el 8vo semestre, apasionado por el desarrollo de software y la resolución de problemas mediante código.
+>>>>>>> 887ab761affaba6fb0f26af52721e6e0726c7351
 
 ### 🚀 En qué estoy trabajando actualmente
 * **Web Development:** Desarrollando paginas web
