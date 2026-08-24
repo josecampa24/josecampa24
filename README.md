@@ -2,11 +2,10 @@
 
 ### 🎓 Quién soy
 
-Soy estudiante de **Ingeniería en Tecnología de Software (ITS)** en la **Universidad Autónoma de Nuevo León (UANL)**.Apasionado por el desarrollo de software y la resolución de problemas mediante código.
-
+Soy estudiante de **Ingeniería en Tecnología de Software (ITS)** en la **Universidad Autónoma de Nuevo León (UANL)**. Apasionado por el desarrollo de software y la resolución de problemas mediante código.
 
 ### 🚀 En qué estoy trabajando actualmente
-* **Web Development:** Desarrollando paginas web
+* **Web Development:** Desarrollando páginas web
 * **Mobile Apps:** Trabajando en una aplicación móvil para el control de expedientes clínicos en hospitales.
 * **Data Science:** Estudiando los fundamentos para convertirme en Científico de Datos.
 
@@ -15,10 +14,11 @@ Estas son las tecnologías con las que trabajo y que estoy perfeccionando:
 
 * **Lenguajes:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
     ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+    ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 * **Frontend:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
     ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
+* **Bases de Datos:** ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 📬 Cómo contactarme
 ¡Me encanta conectar con otros desarrolladores y entusiastas de la tecnología! 
